@@ -1,0 +1,22 @@
+
+body {
+    padding-top: 70px;
+}
+
+.editspace {
+    width: 555px;
+}
+
+.choice-holder {
+    display: inline;
+}
+
+.col-sm-10 ul li {
+    list-style-type: none ;
+    padding: 0px;
+    margin-bottom: 10px;
+}
+
+.form-inline ul{
+   padding: 0px;
+}

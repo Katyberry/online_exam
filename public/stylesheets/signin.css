@@ -1,0 +1,22 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+.form-signin-heading {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.panel-signin {
+  margin: 0 auto;
+  padding: 15px;
+  max-width: 380px;
+}
+
+.form-signin {
+  margin:0 auto;
+  padding: 15px;
+  max-width: 345px;
+}

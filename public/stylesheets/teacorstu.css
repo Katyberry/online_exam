@@ -1,0 +1,15 @@
+body {
+    padding-top: 70px;
+}
+
+.control-label p {
+    text-align: left;
+}
+
+.addcontrol {
+    padding-top: 0px !important;
+}
+
+.correct-area {
+    margin-bottom: 15px;
+}
